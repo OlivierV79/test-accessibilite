@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint"
+    "lint": "eslint",
+    "lint:accessibility": "pa11y-ci"
   },
   "author": "",
   "license": "ISC",
@@ -16,5 +17,6 @@
   "devDependencies": {
     "eslint": "^9.19.0",
     "globals": "^15.14.0"
-  }
+  },
+
 }
