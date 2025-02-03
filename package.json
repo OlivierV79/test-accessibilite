@@ -17,6 +17,5 @@
   "devDependencies": {
     "eslint": "^9.19.0",
     "globals": "^15.14.0"
-  },
-
+  }
 }
